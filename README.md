@@ -1,7 +1,6 @@
 # ZeroTrace: Advanced Web Security Scanner
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/garv04/ZeroTrace.svg)](https://github.com/garv04/ZeroTrace/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/garv04/ZeroTrace.svg)](https://github.com/garv04/ZeroTrace/issues)
 
